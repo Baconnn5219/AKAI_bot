@@ -1,0 +1,8 @@
+#在vscode上運行只需這些
+discord
+discord_buttons_plugin 
+
+#在replit上時需下載
+flask
+discord
+dicord.py
